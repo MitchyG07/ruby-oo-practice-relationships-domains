@@ -38,8 +38,4 @@ class Listing
         count.find {|k,v| v == count_array.max()}
     end 
 
-
-
-
-
 end  
